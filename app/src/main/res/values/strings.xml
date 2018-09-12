@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AppQuiz</string>
+
+    <string-array name="Cidade">
+        <item>Colombo</item>
+        <item>Curitiba</item>
+        <item>Pinhais</item>
+    </string-array>
+
+    <string-array name="Ano">
+        <item>1935</item>
+        <item>1944</item>
+        <item>1945</item>
+    </string-array>
+
+    <string-array name="Copa">
+        <item>França</item>
+        <item>Brasil</item>
+        <item>Argentina</item>
+    </string-array>
+
+    <string-array name="Raça">
+        <item>Tsufurujin</item>
+        <item>Namekuseijin</item>
+        <item>Sayajin</item>
+        <item>Humano</item>
+        <item>Marciano</item>
+    </string-array>
+
+    <string-array name="buraco">
+        <item>MS 0735.6+7421</item>
+        <item>Sagittarius A</item>
+        <item>Messier 87</item>
+        <item>NGC 4889</item>
+        <item>SSDS J085543.40-001517.7</item>
+    </string-array>
+
+</resources>
